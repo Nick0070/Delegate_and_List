@@ -1,0 +1,13 @@
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.exe
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.deps.json
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.json
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.runtimeconfig.dev.json
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.dll
+C:\Users\nlych\source\repos\lab5\lab5\bin\Debug\netcoreapp3.1\lab5.pdb
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csprojAssemblyReference.cache
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfoInputs.cache
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.AssemblyInfo.cs
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.csproj.CoreCompileInputs.cache
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.dll
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.pdb
+C:\Users\nlych\source\repos\lab5\lab5\obj\Debug\netcoreapp3.1\lab5.genruntimeconfig.cache
